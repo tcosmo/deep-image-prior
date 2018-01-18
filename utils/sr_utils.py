@@ -1,4 +1,5 @@
 from .common_utils import *
+from PIL import ImageFilter
 
 def put_in_center(img_np, target_size):
     img_out = np.zeros([3, target_size[0], target_size[1]])
