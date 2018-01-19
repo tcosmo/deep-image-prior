@@ -1,3 +1,6 @@
+# Fork
+This fork implements the experiments shown in the report for RecVis (MVA, T.Sterin).
+
 # Deep image prior
 
 In this repository we provide *Jupyter Notebooks* to reproduce each figure from the paper:
